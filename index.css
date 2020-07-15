@@ -1,0 +1,42 @@
+body {
+    background-color: cream;
+}
+h1{
+    text-align: center;
+    border-radius: 35px;
+    font: 70px;
+    font-weight: bolder;
+
+}
+#footer{
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+}
+h3{
+    border-radius: 30px;
+
+}
+ul {
+    list-style: none;
+  }
+  
+  #nav_bar li{
+        font-size: 20px;
+        background-color: lightblue;
+        Color: rgba(0, 0, 255, 0.966);
+        float: right;
+        padding: 8px;
+        background-color: pink;
+        border: 12px;
+        padding: 7px 15px; 
+        font-family: bold;
+        border-radius: 25px;  
+
+
+  }
+  
+  #nav_bar li {
+    display: inline-block;
+    padding: 8px;
+  }
